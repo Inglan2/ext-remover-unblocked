@@ -13,6 +13,7 @@ jobs:
       - run: git clone https://github.com/3kh0/ext-remover
       - run: rm -rf ext-remover/.git
       - run: ls
+      - run: git config --global user.email "workflows@github.com" && git config --global user.name "the hub"
       - run: git add --all
       - run: git commit -m update
       - run: git push
