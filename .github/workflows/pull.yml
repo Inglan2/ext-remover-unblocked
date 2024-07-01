@@ -1,0 +1,13 @@
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs: 
+  pull:
+    name: Pull
+    runs-on: ubuntu-22.04
+    steps:
+      - run: rm -rf ext-remover
+      - run: git clone https://github.com/3kh0/ext-remover
+      - run: rm -rf ext-remover/.git
