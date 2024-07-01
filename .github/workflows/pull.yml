@@ -8,6 +8,7 @@ jobs:
     name: Pull
     runs-on: ubuntu-22.04
     steps:
+      - uses: actions/checkout@v4.1.7
       - run: rm -rf ext-remover
       - run: git clone https://github.com/3kh0/ext-remover
       - run: rm -rf ext-remover/.git
