@@ -16,7 +16,7 @@ Thank you to all of the contributors! You all are pretty epic :D
 - [EXT-REMOVER](#ext-remover)
   * [Securly Kill](#securly-kill)
   * [BR1CK](#br1ck)
-  * [OlyBmmer](#olybmmer)
+  * [BadRecovery](#badrecovery)
   * [Rigtools](#rigtools)
   * [ExtPrint3r](#extprint3r)
   * [ExtHang3r](#exthang3r)
@@ -76,9 +76,9 @@ for instructions visit: <a href='https://br1ck.vercel.app'>BR1CK's website</a> o
 
 [**🔼 Back to top**](#ext-remover)
 
-## OlyBmmer
+## BadRecovery
 
-**OlyBmmer** is an exploit that allows users to unenroll school-managed Chromebooks. Due to the specificness of this exploit, please visit the linked repository: <a href='https://github.com/BinBashBanana/badrecovery'>OlyBmmer Exploit</a>
+**BadRecovery (Formerly OlyBmmer)** is an exploit that allows users to unenroll school-managed Chromebooks. Due to the specificness of this exploit, please visit the linked repository: <a href='https://github.com/BinBashBanana/badrecovery'>BadRecovery Exploit</a>
 
 [**🔼 Back to top**](#ext-remover)
 
@@ -273,13 +273,13 @@ Within the unblocked browser, you can
 
 ### How to use it
 
-Bypassi made a wonderful slideshow for you goofballs to follow and view using any of the links below!
+Bypassi made a wonderful slideshow for you goofballs to follow and view using the first link below! (Note: The others no longer work and are only there for archival purposes.)
 
+- [`img/skiovox.pdf`](img/skiovox.pdf)
 - https://www.skiovox.com/skiovox.pdf
 - https://drive.google.com/file/d/1tl8eP26MFRejHO38H5HwMLl2VaQrtn0Z/preview
 - https://ftp.3kh0.net/Archive/skiovox.pdf
 - https://1drv.ms/b/s!Ais5N3vPLTEMh8poZbywnNWdMUrhUA?e=MaCHBx
-- [`img/skiovox.pdf`](img/skiovox.pdf)
 
 ### Further Reading
 - [Skiovox helper](https://github.com/bypassiwastaken/skiovox-helper)
@@ -890,6 +890,11 @@ Go to <a href="https://quickview-exploit.pages.dev/">quickview-exploit.pages.dev
 ### Getting started
 
 Visit any of the links below:
+- [https://the-buypass.netlify.app/](https://the-buypass.netlify.app/)
+- [https://playful-meringue-fb58bc.netlify.app/](https://playful-meringue-fb58bc.netlify.app/)
+- [https://buypass-poc.netlify.app/](https://buypass-poc.netlify.app)
+
+Broken links:
 - https://buypass.bypassi.com
 - https://buypass.brandonprather.repl.co
 - https://buypass.glitch.me
